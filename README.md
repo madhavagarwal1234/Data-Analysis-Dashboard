@@ -7,7 +7,7 @@ The **Ola BI SQL Project** is a comprehensive data analysis and business intelli
 - **Data Visualization**: Building interactive dashboards exclusively with **Power BI** to visualize and interpret the data.
 
 ## Files Included
-- **`ola_project.sql`**  
+- **`OLA Project.sql`**  
   Contains all SQL scripts necessary to:
   - Create the `ola` database along with its tables.
   - Populate tables with ride data.
@@ -16,7 +16,7 @@ The **Ola BI SQL Project** is a comprehensive data analysis and business intelli
     - Calculate average ride distance per vehicle type.
     - Analyze canceled rides.
 
-- **`BI_ola_project.pbix`**  
+- **`BI ola project.pbix`**  
   A Power BI report file that offers:
   - Interactive dashboards.
   - Advanced filtering and drill-down capabilities.
